@@ -1,2 +1,2 @@
 # projetos-python
- Projetos feitos em Paradigmas de Python
+ Projetos feitos em **Paradigmas de Python**
